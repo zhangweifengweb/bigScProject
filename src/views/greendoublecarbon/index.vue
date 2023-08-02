@@ -3,6 +3,8 @@
     <p class="top">
       <span>{{ timeText }}</span>
       <span>{{ weather }}</span>
+      <span>{{ weather }}</span>
+      <span>{{ weather }}</span>
     </p>
     <left-part :initData="initDataLeft" />
     <center-part :initData="initDataCenter" />
